@@ -40,8 +40,16 @@ $parallel-paper-translation
 
 主智能体会先询问翻译子智能体的模型，随后讨论必要依赖的安装方式，再汇总计划并等待你**单独确认开始**。选择模型或同意依赖安装方式本身不会启动翻译。运行完成后，应保留各片段、初版合并文档，以及带有 `assets/` 图片目录的校订版文档。
 
+## 许可证
+
+本仓库的 Skill 文档、提示词和辅助脚本采用 [MIT License](LICENSE)，版权署名为 `2026 aria467`。这一许可不会自动授予原论文 PDF、第三方素材或使用本 Skill 生成的译文的权利。
+
+> 依据：[Open Source Initiative 的 MIT 许可证原文](https://opensource.org/license/mit)。
+
 ## 参考资料
 
 > [OpenAI 官方 Skill 文档：结构、发现位置和显式调用](https://learn.chatgpt.com/docs/build-skills)。
 >
 > [本仓库的工作流程说明](references/workflow.md)。
+>
+> [Open Source Initiative：MIT License](https://opensource.org/license/mit)。
